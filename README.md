@@ -2,5 +2,5 @@
 
 Selamat Datang Untuk Mengisi Form Pendaftaran Silahkan Klik [Form Pendaftaran](https://kingdandanis.github.io/) 
 
-Nama  : Ainun Naisyah
+Nama  : Ainun Naisyah 
 Kelas : PTK B 2016
